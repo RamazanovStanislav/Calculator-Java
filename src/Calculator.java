@@ -38,7 +38,7 @@ public class Calculator {
 
         //int[]arab = {10,1,2,3,4,5,6,7,8,9};
 
-        String[]rome = new String[10];
+        String[]rome = new String[10];//римские цифры
         rome[0]="X";
         rome[1]="I";
         rome[2]="II";
